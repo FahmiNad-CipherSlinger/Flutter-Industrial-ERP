@@ -50,7 +50,8 @@ This ERP suite provides **10 specialized modules** tailored for industrial opera
  
 Open the application in a browser and test that you can login with the default username and password (admin/admin)
 
-<img src="https://drive.google.com/file/d/1wWx9wDJEvQu_4mKX8acdG7FZ9W6M21Bv/view?usp=sharing" alt="">
+
+<img width="1366" height="684" alt="login pannel" src="https://github.com/user-attachments/assets/1051af4b-bc94-4697-ac62-c5fe0512a11f" />
 
 Click on the Login button, and the system will redirect you to the dashboard.
 
