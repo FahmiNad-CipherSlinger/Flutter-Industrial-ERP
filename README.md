@@ -1,141 +1,65 @@
-inoERP is an  **[OneApp](https://docs.rikdata.com)** (Go back-end & Flutter front-end) based enterprise management system. The ERP systems contain all the required modules for running small to midsize businesses. The features are similar to Oracle R12/ Cloud Application and SAP ECC/Hana S/4. 
+# 🏭 Flutter Industrial ERP Suite
 
-The application uses MySQL database and OneApp JavaScript APIs to create business logic. All the database and javascript codes are available on GitHub.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2.svg)
+
+
+NZ ERP is an  **Industrial** (Go back-end & Flutter front-end) based enterprise management system & also actively runnning in NZ Tex Group. The ERP systems contain all the required modules for running industrial-grade businesses. The features are advanced and 
+
+The application uses MySQL database and  JavaScript APIs to create business logic. All the database and javascript codes are available on GitHub.
 
 The client is available for Andriod, iOS, macOS, Windows, and Web.
 
 The server is available for Windows, macOS, and Linux.
 
-Documentation: <http://docs.inoerp.com>
 
-REST APIs <http://api.inoerp.com>
+Contact : forhad.it@nztexgroupbd.com, farhadahamed7492@gmail.com
 
-Web Demo:
+---
 
-- https <https://demo.inoerp.com:8090/>
+## 🚀 Features
 
-- http <http://demo.inoerp.com:8085/>
+This ERP suite provides **10 specialized modules** tailored for industrial operations:
 
-Contact : contact@rikdata.com, rikdata.com@gmail.com
+- **SM – Sales Management:** Handle sales, orders, quotations, and client relationships.  
+- **PM – Purchase Management:** Streamline procurement and supplier processes.  
+- **IM – Inventory Management:** Track stock, manage warehouses, and monitor movements.  
+- **AM – Accounts Management:** Manage finances, ledgers, receivables, and payables.  
+- **HRM – Human Resource Management:** HR tools for employees, payroll, and attendance.  
+- **CMS – Commercial for Spinning Management:** Specialized workflows for spinning industries.  
+- **PS – Dimension Management:** Configure and manage production dimensions.  
+- **SPM – Spinning Management:** Oversee spinning processes and production data.  
+- **LM – Land Management:** Manage land, assets, and property records.  
+- **Dashboard & Setup:** Real-time analytics dashboards and system configuration.
 
-***The web client is experimental and doesn't have all functionalities of native clients (Windows/macOS/Andriod/iOS). The performance of the web is also not at the same level as a native client. So, try the application with a native client and use the above URL in your native client.***
+---
 
-## Server
-------------
-## MySQL
+## 🛠 Tech Stack
 
-1. Install MySQL  Ver 8.0.+
-2. Change MySQL settings on the config.json file
-````
-{
-      "dbConnName": "Inoerp",
-      "dbType": "MySQL",
-      "host": "localhost",
-      "portNumber": 3306,
-      "dbName": "inoerp",
-      "userName": "YourDbUserName",
-      "password": "YourDbPassword",
-      "connPoll": 5,
-      "maxConnPoll": 10,
-      "defaultRowLimit": 5
-    }
+- **Frontend:** Flutter 3.x (Dart 3.x)  
+- **State Management:** Riverpod  
+- **Database:** SQLite
+- **Networking:** REST API / GraphQL (based on your backend)  
+- **CI/CD:** GitHub Actions
+- **Server:** Local Server  
+- **Platforms:** Android, iOS, Web, Desktop
 
-````
-3. Import the database
+---
 
-````
-mysql -u root -p < /home/files/inoerp.sql
-
-````
-
-database file is available @ assets\db\mysql folder
-
-The import process will create the required inoerp schema.
-
-
-````
-CREATE DATABASE  IF NOT EXISTS `inoerp` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `inoerp`;
-SET GLOBAL log_bin_trust_function_creators = 1;
-````
-
-Ensure ***SET GLOBAL log_bin_trust_function_creators = 1;***
-
-## Settings
-
-1. Enter server hostname and port on the config.json file
-````
-  "application": {
-    "protocol": "http://",
-    "hostName": "localhost",
-    "portNumber": 8085,
-    "certFile": "",
-    "keyFile": ""
-  },
-
-````
-
-2. Change any other settings on the config.json file as per business requirement
-
-## Start/Stop
- You can start the server like any other application. You can stop the server using OneApp Desktop/Mobile client. You can also send a REST request to Your host/stop to stop the application. To send a stop request, you must have admin authority.
-
-````
- ./oneapp_win.exe
+## Starting server @ localhost:8080
  
-````
-
-or in Linux
-
-````
-nohup ./oneapp_linux &
- 
-````
-
-
-## Client
-
-Access the application using any client of your choice. The clients are available for
-* Andriod
-* Windows
-* macOS
-* iOS
-* Web
-
-
-[Download Client](https://docs.rikdata.com/docs/download)
-
-The console will show you a message stating the host and port when the server starts. Server start should not take more than 10-15 seconds.
-
-````
-Starting server @ localhost:8085
- 
-````
-
 Open the application in a browser and test that you can login with the default username and password (admin/admin)
 
-<img src="http://docs.inoerp.com/images/modules/admin/server/server_01.PNG" width="800"/>
+<img src="https://drive.google.com/drive/folders/1Ie4U34-goZiOFw28JnLcOhdKiLGXQe23"/>
 
-Click on the sign-in button, and the system will redirect you to the dashboard.
-
-
-:::caution
-
-The web client is experimental and doesn't have all functionalities of native clients (Windows/macOS/Andriod/iOS). The performance of the web is also not at the same level as a native client. So, try the application with a native client and use the above URL in your native client.
-
-:::
-
-<img src="http://docs.inoerp.com/images/modules/admin/server/server_02.PNG" width="800"/>
+Click on the Login button, and the system will redirect you to the dashboard.
 
 
-
-Read how to configure and use 
-any client @ [OneApp](https://docs.rikdata.com/docs/quickstart)
 
 ## Modules
 ------------
 
-Below are the fully functional ERP Modules available in inoERP
+Below are the fully functional ERP Modules available in NZERP
 
 ###  General Ledger (GL)
 Chart of Accounts
