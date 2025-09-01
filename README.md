@@ -39,7 +39,7 @@ This ERP suite provides **10 specialized modules** tailored for industrial opera
 - **Frontend:** Flutter 3.x (Dart 3.x)  
 - **State Management:** Riverpod  
 - **Database:** SQLite
-- **Networking:** REST API / GraphQL (based on your backend)  
+- **Networking:** REST API
 - **CI/CD:** GitHub Actions
 - **Server:** Local Server  
 - **Platforms:** Android, iOS, Web, Desktop
@@ -62,127 +62,145 @@ Click on the Login button, and the system will redirect you to the dashboard.
 
 Below are the fully functional ERP Modules available in NZERP
 
-###  General Ledger (GL)
-Chart of Accounts
-inoERP allows a multi-segment accounting structure that you can use to represent all segments of a business transaction.
+###  Sales Management (SM)
+NZERP allows a multi-segment Sales structure that you can use to represent all segments of a business transaction.
       Ex : 001-100-1020202-0100-100
       Where 001 – Represents a specific company/business unit /legal entity
       100 – Represents a cost center
       1020202 – a Natural account such as Asset, Liability, Expense, Income, or Owners Equity
+Manage leads, sales orders, quotations, and client relationships with real-time tracking and automation tools.
+1.Sales Order
+2.Direct Invoice
+3.Payment Receive
+4.Sales Order Inquiry
+5.Transactions
+6.Customers
+7.Branch
+8.Reports and Analysis
 
-2. Calendars 
-Define as many different financial calendars as required
-Ex: One calendar INO_CORP for Corporate and INO_USA, INO_UK for specific countries
-3. Account Combinations
-4. Currency & Conversions
-5. Ledger:  A set of a calendar, currency, and chart of accounts
-6. Banks
-7. Journal 
+###  Purchase Management (PM) 
+Streamline procurement processes, manage suppliers, and track purchase orders efficiently.
+
+1.Purchase Order
+2.Receive
+3.Supplier Invoice
+4.Payments to Suppliers
+5.Transactions
+6.Suppliers
+7.Reports and Analysis
+
+###  Inventory Management (IM)
+Maintain accurate stock levels, track product movement, and optimize warehouse operations.
+1.Inventory Adjustments
+2.Inventory Movements
+3.Items
+4.Sales Pricing
+5.Reports and Analysis
 
 
-###  Accounts Payable(AP)
-1. Suppliers
-2. AP Transactions
- -  2.1 Invoices
- -  2.2 Debit Memo
- -  2.3 Credit Memo
-3. PO/Transaction Matching 
-4. Multi select matching
-5. AP Payments
- -  5.1 Single Invoice Payment
- -  5.2 Multi select Payment
-6. Transfer Journals to GL
+###  Accounts Management (AM)
 
-###  Accounts Receivable(AR)
-1.  Customer
-2.  AR Transactions
- -  2.1 Invoices
- -  2.2 Debit Memo
- -  2.3 Credit Memo
- -  2.4 Deposit
- -  2.5 Guarantee
- -  2.6 Charge Back
-3.  AR Payments
- -  3.1 Single Invoice Payment
- -  3.2 Multi select Payment
-4. Transfer Journals to GL
+Handle financial transactions, general ledgers, receivables, payables, and expense tracking with precision.
+1.Bank Payments
+2.Cash Payments
+3.Bank Received
+4.Cash Received
+5.Journal Entry
+6.Bank Account Inquiry
+7.GL Account Inquiry
+8.Trial Balance
+9.Exchange Rates
+10.GL Accounts
+11.Reports and Analysis
+12.Bank Account Received Entry	
 
-###  Fixed Asset Accounting(FA)
-1. Asset
-2. Depreciation
-3. Transactions
-4. Configuration
+### Commercial for Spinning Management (CMS)
+Tailored for spinning industries, providing solutions for managing commercial processes and related workflows.
+This section is hidden for company purpose.
 
-### Organizations(ORG)
-1. Enterprise Org
-2. Legal Org
-3. Business Org
-4. Inventory Org
-5   Address
 
-### Inventory (INV)
-1. Item Master
-2. Unit of Measure
-3. Sub inventory
-4. Locator
-5. Inventory Transactions
-6. Material Receipts
-     * PO Receipt  
-     * IR Receipt  
-     * RMA Receipt  
-7. Onhand Value
-8. Cycle Count
-    * Cycle Count Adjustment
-    * Cycle Count Approval 
-9. ABC Analysis
+### Dimension Management (PS)
+Handle dimension planning and production standards with accuracy and flexibility.
 
-### Purchasing (PO)
-1. Purchase Order
-    * Standard
-    * Blanket Agreement
-    * Planned PO
-2. Requisitions
-    * External
-    * Internal
+1.Dimension Entry
+2.Dimension Inquiry
+3.Reports and Analysis
 
-3. RFQ / Quote
-4. Approval for PO, Requisition
 
-### Sales & Distributions (SD)
-1. Sales Order - Creation & Auto Booking
-2. Sales Picking
-3. Delivery & Shipment
-4. Auto AR Invoice
+### Spinning Management (SPM)
+Oversee spinning operations with real-time data and production planning tools.
 
-### Bills Of Material (BOM)
 1. Departments
 2. Resources
 3. Routing
 4. BOM
 5. Super BOM
 
-### Costing (CST)
-1. Material Element
-2. Material OH 
-3. Overhead
+### Land Management (LM)
+Keep records of assets, properties, and land-related data for streamlined administrative control.
+
+1. Assets
+2. Liabilities
+3. Properties
 4. Resources
 5. Standard Cost
-6. Cost Roll Up
-7. Cost Update
+7. some parts of this section is private for company purpose
 
-### Work in Process (WIP)
-1. Work Order 
-2. WIP Move Transactions
-3. WIP Resource Transactions
-4. WIP Material Transaction
-5. WO Completion/Return
+### Dashboard & Setup: 
+Gain actionable insights through dynamic dashboards and configure your system to fit your business processes.
+1.Company Setup
+    * User Accounts Setup
+    * Access Setup
+    * User Rights Setup
+    * Location Access Setup
+    * Category Access Setup
+    * Supplier Access Setup
+    * Dimension Access Setup
+    * Department Access Setup
+    * Device Access Panel
 
-### Supply Chain Planning (SCP)
-1. Forecast
-2. MDS
-3. MRP
-4. Min-Max Planning
-    * Multi Bin Min Max
+2.Miscellaneous
+    * Payment Terms
+    * Shipping Company
+    * Vehicle Info
+    * Dashboard Setup
+    * Reminder Setup
+    * Points of Sale
+    * Printers
+    * Contact Categories
+    * User Activity
+
+3.Taxes
+           
+   * Item Tax Types
+   * System and General GL Setup
+   * Fiscal Years
+   * Print Profiles
+   * Access user list
+4.Tax Groups
+5.Forms Setup
+6.Display Setup
+7.Maintenance
+   * Default Store Location Setup
+   * Employee Setup
+   * Add And Manage Shift
+   * Production Hold Reason
+   * Void a Transaction
+   * Void a Transaction(New)
+   * View or Print Transactions
+   * Attach Documents
+   * Attach File
+   * Approver Setup
+   * Footer Setup
+   * Back Date Time Setup for Transactions
+   * Backup and Restore
+   * Create/Update Companies
+   * Install/Update Languages
+   * Install/Activate Extensions
+   * Install/Activate Themes
+   * Install/Activate Chart of Accounts
+   * Software Upgrade
+   * Report Generator
     
 ### Human Resource (HR)
 1. Employee
@@ -195,26 +213,13 @@ Ex: One calendar INO_CORP for Corporate and INO_USA, INO_UK for specific countri
 4. Leave System
 4. Approval Hierarchy
     
-### Basic Features
-1.   Options
-2.   Value Groups
-3.   Transaction Types
-4.   Custom Reporting
-5.   Search
-5.   Multi Select
-6.   Mass Upload    
 
-### Admin
-1. User 
-2. Roles and Role Base Access Control
-3. Notification
-4. Document Approval
+
 
 ## Modules Under Development
 ------------
 1. Project System
-2. Asset Maintenance
-3. HelpDesk
+2. HelpDesk
 
 
 ## Dynamic pull System
