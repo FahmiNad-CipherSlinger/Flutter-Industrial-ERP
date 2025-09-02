@@ -205,234 +205,239 @@ Gain actionable insights through dynamic dashboards and configure your system to
 ### Human Resource Management(HRM)
 
 Manage employees, payroll, attendance, and performance from a centralized module.This is the most important of this industrial Project.
-1.Transactions
-    * Employee Information Entry
-    * Employee Information
-    * Bangla Employee Informaton
-    * Employee Explorer
-    * Increment And Promotion Explorer
-    * Resign Explorer
-    * Employee inactive Explorer
-    * Employee Salary Structure
-    * Employee Extra Salary
-    * Extra Salary Deduction Entry
-    * Salary Basic Info
-    * Extra Salary Info
-    * Salary Process Month
-    * Rollback Process Month
-    * Salary Editor
-    * JV Salary Process Month
-    * JV Settlement
-    * Employee Info Upload
-    * Partial to Advance Salary
-    * Re-Partial to Advance Salary
-    * Advance Salary Upload
-    * Leave Information Upload
-    * Upload CV
-    * Salary Unlock
-    * Bonus Salary Backup
-    * Opening Earning Leave Upload
-    * Gazetted Salary Process
-    * Employee ID Card
-    * Leave Application Form
-    * Early Leave Application Form
-    * Resignation Application Form
-    * Loan Application Form
-    * Loan Installment Postponing Application Form
-    * Loan Exceptions
-    * Advance Salary Application Form
-    * Employee Evaluation Form
-    * Employee Increment And Promotion Form
-    * Multiple Employee Increment And Promotion Form
-    * Daily OT Payment
-    * Advance EPD Payment
-    * Single Employee OT Approve
-    * Date Wise Employee OT Approve
-    * Piece Information
-    * Employee Running shift
-    * Employee Running shift Correction
-    * Turn holiday to absent
-    * Turn holiday to absent Correction
-    * Salary Held Up
-    * Letter Explorer
-    * Salary Acknowledgment
-    * Bonus Process
-    * Bonus Salary Held Up
-2. Employee Attendance
-	* Employee Attendance For Head Office
-	* Employee Attendance Nz Head Office
-	* Employee Attendance Nz Factory
-	* Employee Attendance For RS
-	* Manual Attendance Entry
-	* Manual Attendance Entry (Multiple)
-	* Manual Attendance Entry by Department(Multiple)
-	* Manual Attendance Entry by Dimension(Multiple)
-	* Manual Attendance Entry Special(Multiple)
-	* Absent to Attendance List
-	* Selective Attendance List Show
-	* Single Employee Attendance Correction Form
-	* Date Wise Employee Attendance Correction Form
-	* Remove Unwanted Attendance
-	* Modify Attendance
-	* Data Synchronization
-	* Compensation Leave Explorer
-	* All Employee Monthly Summary
-	* All Employee Monthly Summary Information
-	* Summary of Daily Man Power Attendance Report
-	* Single Employee Monthly Summary
-	* Single Employee Monthly Summary NC
-	* Attendance List
-	* Show Attendance List
-	* Employee Attendance List
-	* Compensation Leave
-	* Absent List
-	* Individual Job Card
-	* Individual Attendance History
-	* All job cards
-	* All job cards Report
- 3.Inquiries and Reports
-  	* Employee Job Info Approval
-    * Job Approval Explorer
-    * Employee Remaining Leave Inquiry
-    * Monthly Leave summary
-    * Leave Approve Inquiry
-    * Resignation Approve Inquiry
-    * Leave Explorer
-    * Holiday to Absent Explorer
-    * Over Time Explorer
-    * Loan Approve Inquiry
-    * Loan Installment Postponing Approve Inquiry
-    * Loan Explorer
-    * Loan Installment Change Explorer
-    * Loan Exceptions Inquiry
-    * Loan Postpond Explorer
-    * Advance Salary Approve Inquiry
-    * Increment And Promotion Inquiry
-    * OT Payment Explorer
-	* Advance Salary Explorer
- 	* Increment And Promotion Approval
-    * Bonus Salary Explorer
-    * Multiple Employee Increment And Promotion Inquiry
-    * Multiple Increment And Promotion Approval
-    * Salary Lock Explorer
-    * Late Attendance List
-    * Food Information
-    * Tax Information
-    * Tax Challan
-    * Top 50 Early Leave
-    * Less Work Explorer
-    * Employee Running shift Inquiry
-    * Salary Held Up Inquiry
-    * Re-Joining Approve Inquiry
-    * Last Increment Inquiry
-    * Earn Leave Balance
-    * Mobile bill Explorer
-    * Salary Sheet View
-    * Salary Summary
-    * ALL Unit Salary Summary
-    * Bonus Summary
-    * Bonus Summary All Unit
-    * Bonus Fund Requirement All Unit
-    * Salary Sheet View Garments
-    * Overtime Sheet
-    * Extra Overtime Sheet
-    * Holiday Overtime Sheet
-    * Night Over Time Sheet
-    * Tiffin Sheet
-    * Fund Requirement
-   	* New Fund Requirement
-    * All Unit Fund Requirement
-    * Proposed Increment Summary
-    * Gazetted Salary Summary
-    * Cash Salary
-    * Cash Salary All Unit
-    * Salary/Wage Summary
-    * Salary Sheet Summary
-    * Salary Sheet Summary Comparison
-    * Salary Sheet Summary(OT)
-    * Monthly Salary Forms
-    * Challan Bangla
-    * Salary Sheet
-    * Real Time Salary Sheet Summary
-    * Real Time OT Summary
-    * Pay Slip Generation
-    * Pay Slip Generation Bangla
-    * Pay Slip
-    * Bank Statements
-    * Monthly Salary Process Acknowledgement
-    * Payroll Reports
-    * Employee - Final Settlement
-    * Gazetted Salary
-    * Employee Status Explorer
-    * Custom Reports
-4. Maintenance
-  	* Approver Setup
-    * Attendance Type
-    * Attendance Buffering Time
-    * Income Tax Setup
-   	*  Location
-    * Nationality
-    * Religion
-    * Marital Status
-    * Department
-    * Add Site/Unit/Office/Section
-    * Total Stand & Attendance per shift Setup
-    * Designation Group
-    * Designation
-    * Grade
-    * Institute Entry
-    * Educational Degree
-    * Major Subject
-    * Bank Accounts
-    * OT Setup
-    * Maximum OT Setup
-    * Employee Type
-    * Employee Type Change
-    * Late Count Setup
-    * Salary Report Setup
-    * Salarysheet Head Setup
-    * Salarysheet Setup
-    * Cash Amount
-    * Mobile Bill
-    * Percent Information
-    * Salary Acknowledgment Setup
-   	* Breakup Formula
-    * Loan Type Setup
-    * Stamp Setup
-    * Bonus Settings
-    * Attendance Bonus Setting
-    * Extra Salary For Fund Requirement
-    * Extra Salary Head Setting
-    * Relation Type
-    * Office/Shift Setup
-    * Running shift Setup
-    * Grade Leave Setup
-    * Earnings Leave Setup
-    * Special Medical Leave
-    * Compensation Leave Setup
-    * Gazetted Holidays
-    * Weekend Setup
-    * Monthly Offday Settings
-    * Employee Auto Retirement Days
-    * Employee Salary Calculation Setup
-    * Employee Provident Fund Setup
-    * Employee Gratuity Fund Setup
-    * Employee Job Info Change
-    * D Card Authorize Signature
-    * Employee Signature Entry
-    * Notice
-    * Real Time Salarysheet footer Setup
-    * Employee ID Change
-    * Leave Year Setup
-    * Salarysheet Summary Head Setup
-    * Report Formating
-    * Report Maping
-5. Employee Self Service
-  	* Personal Information
-    * My Monthly Summary
-    * My Leave Information
-    * My Loan Information
-    * My Notification
+1. **Transactions**
+   - Employee Information Entry
+   - Employee Information
+   - Bangla Employee Information
+   - Employee Explorer
+   - Increment And Promotion Explorer
+   - Resign Explorer
+   - Employee Inactive Explorer
+   - Employee Salary Structure
+   - Employee Extra Salary
+   - Extra Salary Deduction Entry
+   - Salary Basic Info
+   - Extra Salary Info
+   - Salary Process Month
+   - Rollback Process Month
+   - Salary Editor
+   - JV Salary Process Month
+   - JV Settlement
+   - Employee Info Upload
+   - Partial to Advance Salary
+   - Re-Partial to Advance Salary
+   - Advance Salary Upload
+   - Leave Information Upload
+   - Upload CV
+   - Salary Unlock
+   - Bonus Salary Backup
+   - Opening Earning Leave Upload
+   - Gazetted Salary Process
+   - Employee ID Card
+   - Leave Application Form
+   - Early Leave Application Form
+   - Resignation Application Form
+   - Loan Application Form
+   - Loan Installment Postponing Application Form
+   - Loan Exceptions
+   - Advance Salary Application Form
+   - Employee Evaluation Form
+   - Employee Increment And Promotion Form
+   - Multiple Employee Increment And Promotion Form
+   - Daily OT Payment
+   - Advance EPD Payment
+   - Single Employee OT Approve
+   - Date Wise Employee OT Approve
+   - Piece Information
+   - Employee Running Shift
+   - Employee Running Shift Correction
+   - Turn Holiday to Absent
+   - Turn Holiday to Absent Correction
+   - Salary Held Up
+   - Letter Explorer
+   - Salary Acknowledgment
+   - Bonus Process
+   - Bonus Salary Held Up
+
+2. **Employee Attendance**
+   - Employee Attendance For Head Office
+   - Employee Attendance Nz Head Office
+   - Employee Attendance Nz Factory
+   - Employee Attendance For RS
+   - Manual Attendance Entry
+   - Manual Attendance Entry (Multiple)
+   - Manual Attendance Entry by Department (Multiple)
+   - Manual Attendance Entry by Dimension (Multiple)
+   - Manual Attendance Entry Special (Multiple)
+   - Absent to Attendance List
+   - Selective Attendance List Show
+   - Single Employee Attendance Correction Form
+   - Date Wise Employee Attendance Correction Form
+   - Remove Unwanted Attendance
+   - Modify Attendance
+   - Data Synchronization
+   - Compensation Leave Explorer
+   - All Employee Monthly Summary
+   - All Employee Monthly Summary Information
+   - Summary of Daily Man Power Attendance Report
+   - Single Employee Monthly Summary
+   - Single Employee Monthly Summary NC
+   - Attendance List
+   - Show Attendance List
+   - Employee Attendance List
+   - Compensation Leave
+   - Absent List
+   - Individual Job Card
+   - Individual Attendance History
+   - All Job Cards
+   - All Job Cards Report
+
+3. **Inquiries and Reports**
+   - Employee Job Info Approval
+   - Job Approval Explorer
+   - Employee Remaining Leave Inquiry
+   - Monthly Leave Summary
+   - Leave Approve Inquiry
+   - Resignation Approve Inquiry
+   - Leave Explorer
+   - Holiday to Absent Explorer
+   - Over Time Explorer
+   - Loan Approve Inquiry
+   - Loan Installment Postponing Approve Inquiry
+   - Loan Explorer
+   - Loan Installment Change Explorer
+   - Loan Exceptions Inquiry
+   - Loan Postpond Explorer
+   - Advance Salary Approve Inquiry
+   - Increment And Promotion Inquiry
+   - OT Payment Explorer
+   - Advance Salary Explorer
+   - Increment And Promotion Approval
+   - Bonus Salary Explorer
+   - Multiple Employee Increment And Promotion Inquiry
+   - Multiple Increment And Promotion Approval
+   - Salary Lock Explorer
+   - Late Attendance List
+   - Food Information
+   - Tax Information
+   - Tax Challan
+   - Top 50 Early Leave
+   - Less Work Explorer
+   - Employee Running Shift Inquiry
+   - Salary Held Up Inquiry
+   - Re-Joining Approve Inquiry
+   - Last Increment Inquiry
+   - Earn Leave Balance
+   - Mobile Bill Explorer
+   - Salary Sheet View
+   - Salary Summary
+   - ALL Unit Salary Summary
+   - Bonus Summary
+   - Bonus Summary All Unit
+   - Bonus Fund Requirement All Unit
+   - Salary Sheet View Garments
+   - Overtime Sheet
+   - Extra Overtime Sheet
+   - Holiday Overtime Sheet
+   - Night Over Time Sheet
+   - Tiffin Sheet
+   - Fund Requirement
+   - New Fund Requirement
+   - All Unit Fund Requirement
+   - Proposed Increment Summary
+   - Gazetted Salary Summary
+   - Cash Salary
+   - Cash Salary All Unit
+   - Salary/Wage Summary
+   - Salary Sheet Summary
+   - Salary Sheet Summary Comparison
+   - Salary Sheet Summary (OT)
+   - Monthly Salary Forms
+   - Challan Bangla
+   - Salary Sheet
+   - Real Time Salary Sheet Summary
+   - Real Time OT Summary
+   - Pay Slip Generation
+   - Pay Slip Generation Bangla
+   - Pay Slip
+   - Bank Statements
+   - Monthly Salary Process Acknowledgement
+   - Payroll Reports
+   - Employee - Final Settlement
+   - Gazetted Salary
+   - Employee Status Explorer
+   - Custom Reports
+
+4. **Maintenance**
+   - Approver Setup
+   - Attendance Type
+   - Attendance Buffering Time
+   - Income Tax Setup
+   - Location
+   - Nationality
+   - Religion
+   - Marital Status
+   - Department
+   - Add Site/Unit/Office/Section
+   - Total Stand & Attendance per Shift Setup
+   - Designation Group
+   - Designation
+   - Grade
+   - Institute Entry
+   - Educational Degree
+   - Major Subject
+   - Bank Accounts
+   - OT Setup
+   - Maximum OT Setup
+   - Employee Type
+   - Employee Type Change
+   - Late Count Setup
+   - Salary Report Setup
+   - Salarysheet Head Setup
+   - Salarysheet Setup
+   - Cash Amount
+   - Mobile Bill
+   - Percent Information
+   - Salary Acknowledgment Setup
+   - Breakup Formula
+   - Loan Type Setup
+   - Stamp Setup
+   - Bonus Settings
+   - Attendance Bonus Setting
+   - Extra Salary For Fund Requirement
+   - Extra Salary Head Setting
+   - Relation Type
+   - Office/Shift Setup
+   - Running Shift Setup
+   - Grade Leave Setup
+   - Earnings Leave Setup
+   - Special Medical Leave
+   - Compensation Leave Setup
+   - Gazetted Holidays
+   - Weekend Setup
+   - Monthly Offday Settings
+   - Employee Auto Retirement Days
+   - Employee Salary Calculation Setup
+   - Employee Provident Fund Setup
+   - Employee Gratuity Fund Setup
+   - Employee Job Info Change
+   - ID Card Authorize Signature
+   - Employee Signature Entry
+   - Notice
+   - Real Time Salarysheet Footer Setup
+   - Employee ID Change
+   - Leave Year Setup
+   - Salarysheet Summary Head Setup
+   - Report Formatting
+   - Report Mapping
+
+5. **Employee Self Service**
+   - Personal Information
+   - My Monthly Summary
+   - My Leave Information
+   - My Loan Information
+   - My Notification
+
 
 
 
