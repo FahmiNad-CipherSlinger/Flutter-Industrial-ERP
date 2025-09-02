@@ -429,16 +429,17 @@ Manage employees, payroll, attendance, and performance from a centralized module
 <img width="1269" height="631" alt="Advance OT Payment" src="https://github.com/user-attachments/assets/c5b6d267-db8d-4e8c-9582-ebd7f6e1429b" />
 <img width="1271" height="659" alt="Advance EPD Payment" src="https://github.com/user-attachments/assets/f62a0769-5819-42d0-bc6a-654c7a8ea463" />
 
-📸 Some Reports Screenshots
-[report 1.pdf](https://github.com/user-attachments/files/22087632/report.1.pdf)
-[NZ Salary Increment Lettter Bangla.pdf](https://github.com/user-attachments/files/22087631/NZ.Salary.Increment.Lettter.Bangla.pdf)
-[NZ Officer Appointment Letter.pdf](https://github.com/user-attachments/files/22087630/NZ.Officer.Appointment.Letter.pdf)
-[NZ Appointment Letter Bangla.pdf](https://github.com/user-attachments/files/22087628/NZ.Appointment.Letter.Bangla.pdf)
-[Job Application Letter.pdf](https://github.com/user-attachments/files/22087626/Job.Application.Letter.pdf)
-[View Employee Resume for resign.pdf](https://github.com/user-attachments/files/22087625/View.Employee.Resume.for.resign.pdf)
+📸 **Some Reports Screenshots**
+    - [report 1.pdf](https://github.com/user-attachments/files/22087632/report.1.pdf)
+    - [NZ Salary Increment Lettter Bangla.pdf](https://github.com/user-attachments/files/22087631/NZ.Salary.Increment.Lettter.Bangla.pdf)
+    - [NZ Officer Appointment Letter.pdf](https://github.com/user-attachments/files/22087630/NZ.Officer.Appointment.Letter.pdf)
+    - [NZ Appointment Letter Bangla.pdf](https://github.com/user-attachments/files/22087628/NZ.Appointment.Letter.Bangla.pdf)
+    - [Job Application Letter.pdf](https://github.com/user-attachments/files/22087626/Job.Application.Letter.pdf)
+    - [View Employee Resume for resign.pdf](https://github.com/user-attachments/files/22087625/View.Employee.Resume.for.resign.pdf)
+    - [report 4.pdf](https://github.com/user-attachments/files/22087624/report.4.pdf)
+    - [report 3.pdf](https://github.com/user-attachments/files/22087622/report.3.pdf)
 <img width="1347" height="638" alt="Setup erp" src="https://github.com/user-attachments/assets/5c63bd64-f39c-42f8-929f-72f6f4d18d1b" />
-[report 4.pdf](https://github.com/user-attachments/files/22087624/report.4.pdf)
-[report 3.pdf](https://github.com/user-attachments/files/22087622/report.3.pdf)
+
 
 
 
@@ -539,5 +540,17 @@ Gain actionable insights through dynamic dashboards and configure your system to
 1. Project System
 2. HelpDesk
 
+## Dynamic Pull System
+------------
+
+The **NZERP** is built to run a **dynamic pull-based system** that adjusts quickly when demand or supply changes — something traditional planning tools like **MRP** or **Kanban** just can’t handle well.
+
+Think of the **dynamic pull system** as an upgraded version of a regular pull system. Traditional Kanban setups have a big downside: they use a **fixed bin size** and need at least **two bins** for the whole operation. This often leads to problems:  
+- If demand **drops suddenly**, you’re stuck with **extra inventory** sitting around.  
+- If demand **spikes unexpectedly**, you risk a **line shutdown**, especially if your lead times are long.
+
+Our **dynamic pull system** solves this by **recalculating the bin (lot) size on the fly** before creating any supply — whether it’s a requisition, purchase order, or work order. Every new supply order adjusts to the **real-time demand**, making operations smoother and more efficient.
+
+After about **six months of building the ERP** and another **four months of testing in a live industrial environment**, we’re proud to say the system is fully functional and actively running. Due to **company policy**, we can’t share the source code, but the **NZ Tex Group**, which includes **three sites — textile, fabrics, and denim**, is using NZERP every day. It’s made managing operations **much easier and more efficient** across the board.
 
 
