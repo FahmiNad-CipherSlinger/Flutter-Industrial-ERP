@@ -148,59 +148,63 @@ Keep records of assets, properties, and land-related data for streamlined admini
 
 ### Dashboard & Setup: 
 Gain actionable insights through dynamic dashboards and configure your system to fit your business processes.
-1.Company Setup
-    * User Accounts Setup
-    * Access Setup
-    * User Rights Setup
-    * Location Access Setup
-    * Category Access Setup
-    * Supplier Access Setup
-    * Dimension Access Setup
-    * Department Access Setup
-    * Device Access Panel
+1. **Company Setup**
+   - User Accounts Setup  
+   - Access Setup  
+   - User Rights Setup  
+   - Location Access Setup  
+   - Category Access Setup  
+   - Supplier Access Setup  
+   - Dimension Access Setup  
+   - Department Access Setup  
+   - Device Access Panel  
 
-2.Miscellaneous
-    * Payment Terms
-    * Shipping Company
-    * Vehicle Info
-    * Dashboard Setup
-    * Reminder Setup
-    * Points of Sale
-    * Printers
-    * Contact Categories
-    * User Activity
+2. **Miscellaneous**
+   - Payment Terms  
+   - Shipping Company  
+   - Vehicle Info  
+   - Dashboard Setup  
+   - Reminder Setup  
+   - Points of Sale  
+   - Printers  
+   - Contact Categories  
+   - User Activity  
 
-3.Taxes
-           
-   * Item Tax Types
-   * System and General GL Setup
-   * Fiscal Years
-   * Print Profiles
-   * Access user list
-4.Tax Groups
-5.Forms Setup
-6.Display Setup
-7.Maintenance
-   * Default Store Location Setup
-   * Employee Setup
-   * Add And Manage Shift
-   * Production Hold Reason
-   * Void a Transaction
-   * Void a Transaction(New)
-   * View or Print Transactions
-   * Attach Documents
-   * Attach File
-   * Approver Setup
-   * Footer Setup
-   * Back Date Time Setup for Transactions
-   * Backup and Restore
-   * Create/Update Companies
-   * Install/Update Languages
-   * Install/Activate Extensions
-   * Install/Activate Themes
-   * Install/Activate Chart of Accounts
-   * Software Upgrade
-   * Report Generator
+3. **Taxes**
+   - Item Tax Types  
+   - System and General GL Setup  
+   - Fiscal Years  
+   - Print Profiles  
+   - Access User List  
+
+4. **Tax Groups**
+
+5. **Forms Setup**
+
+6. **Display Setup**
+
+7. **Maintenance**
+   - Default Store Location Setup  
+   - Employee Setup  
+   - Add And Manage Shift  
+   - Production Hold Reason  
+   - Void a Transaction  
+   - Void a Transaction (New)  
+   - View or Print Transactions  
+   - Attach Documents  
+   - Attach File  
+   - Approver Setup  
+   - Footer Setup  
+   - Back Date Time Setup for Transactions  
+   - Backup and Restore  
+   - Create/Update Companies  
+   - Install/Update Languages  
+   - Install/Activate Extensions  
+   - Install/Activate Themes  
+   - Install/Activate Chart of Accounts  
+   - Software Upgrade  
+   - Report Generator  
+
     
 ### Human Resource Management(HRM)
 
