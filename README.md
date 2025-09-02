@@ -347,7 +347,7 @@ Manage employees, payroll, attendance, and performance from a centralized module
    - My Loan Information
    - My Notification
      
-📸 Some HRM Module Screenshots
+## 📸 Some HRM Module Screenshots
 <img width="1263" height="668" alt="Total Stand   Attendance Per Shift Set Up" src="https://github.com/user-attachments/assets/4da76d3a-e44b-4af2-9bb4-8302aca44fbb" />
 <img width="1282" height="610" alt="Tiffin Sheet" src="https://github.com/user-attachments/assets/1b70db65-cda5-4e25-8134-95686ca581f0" />
 <img width="1357" height="653" alt="Summary Of Daily ManPower Attendance" src="https://github.com/user-attachments/assets/8aa1511d-86b5-4048-9ae0-639a8c4d32fa" />
@@ -429,16 +429,20 @@ Manage employees, payroll, attendance, and performance from a centralized module
 <img width="1269" height="631" alt="Advance OT Payment" src="https://github.com/user-attachments/assets/c5b6d267-db8d-4e8c-9582-ebd7f6e1429b" />
 <img width="1271" height="659" alt="Advance EPD Payment" src="https://github.com/user-attachments/assets/f62a0769-5819-42d0-bc6a-654c7a8ea463" />
 
-📸 **Some Reports Screenshots**
-    - [report 1.pdf](https://github.com/user-attachments/files/22087632/report.1.pdf)
-    - [NZ Salary Increment Lettter Bangla.pdf](https://github.com/user-attachments/files/22087631/NZ.Salary.Increment.Lettter.Bangla.pdf)
-    - [NZ Officer Appointment Letter.pdf](https://github.com/user-attachments/files/22087630/NZ.Officer.Appointment.Letter.pdf)
-    - [NZ Appointment Letter Bangla.pdf](https://github.com/user-attachments/files/22087628/NZ.Appointment.Letter.Bangla.pdf)
-    - [Job Application Letter.pdf](https://github.com/user-attachments/files/22087626/Job.Application.Letter.pdf)
-    - [View Employee Resume for resign.pdf](https://github.com/user-attachments/files/22087625/View.Employee.Resume.for.resign.pdf)
-    - [report 4.pdf](https://github.com/user-attachments/files/22087624/report.4.pdf)
-    - [report 3.pdf](https://github.com/user-attachments/files/22087622/report.3.pdf)
-<img width="1347" height="638" alt="Setup erp" src="https://github.com/user-attachments/assets/5c63bd64-f39c-42f8-929f-72f6f4d18d1b" />
+
+## 📸 Some Reports Screenshots
+
+- [report 1.pdf](https://github.com/user-attachments/files/22087632/report.1.pdf)  
+- [NZ Salary Increment Letter Bangla.pdf](https://github.com/user-attachments/files/22087631/NZ.Salary.Increment.Lettter.Bangla.pdf)  
+- [NZ Officer Appointment Letter.pdf](https://github.com/user-attachments/files/22087630/NZ.Officer.Appointment.Letter.pdf)  
+- [NZ Appointment Letter Bangla.pdf](https://github.com/user-attachments/files/22087628/NZ.Appointment.Letter.Bangla.pdf)  
+- [Job Application Letter.pdf](https://github.com/user-attachments/files/22087626/Job.Application.Letter.pdf)  
+- [View Employee Resume for Resign.pdf](https://github.com/user-attachments/files/22087625/View.Employee.Resume.for.resign.pdf)  
+- [report 4.pdf](https://github.com/user-attachments/files/22087624/report.4.pdf)  
+- [report 3.pdf](https://github.com/user-attachments/files/22087622/report.3.pdf)  
+
+<img width="1347" height="638" alt="ERP Setup" src="https://github.com/user-attachments/assets/5c63bd64-f39c-42f8-929f-72f6f4d18d1b" />
+
 
 
 
